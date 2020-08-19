@@ -32,12 +32,12 @@ const Landing: React.FC = () => {
                     </a>
                     <a href="#" className="give-classes">
                         <img src={giveClassesIcon} alt="Estudar" />
-                        Esturdar
+                        Dar aulas
                     </a>
                 </div>
 
                 <span className="total-connections">
-                    Total de 200 conexões já realizadas
+                    Total de 285 conexões já realizadas
                     <img src={purpleHeartIcon} alt="Coração Roxo" />
                 </span>
 
