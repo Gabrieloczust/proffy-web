@@ -61,6 +61,10 @@
     margin-top: 1.4rem;
 }
 
+.page-teacher-main .schedule-item+.schedule-item {
+    margin-top: 2.4rem;
+}
+
 .page-teacher-main footer {
     padding: 4rem;
     background: var(--color-box-footer);
